@@ -10,4 +10,4 @@
 
 `meteor`
 
-Open app brwoser http://localhost:3000/ 
+Open app in brwoser http://localhost:3000/ 
