@@ -11,3 +11,13 @@
 `meteor`
 
 Open app in brwoser http://localhost:3000/ 
+
+Running on mobile platforms-: https://www.meteor.com/tutorials/blaze/running-on-mobile
+
+Add Data to DB
+
+`cd myapp`
+
+`meteor mongo`
+
+`db.users.insert({ name: "Shemeer M Ali","desig":"CTO",createdAt: new Date() });`
